@@ -1,7 +1,6 @@
 # 🔐 SecureVault
 
 SecureVault est une **plateforme web sécurisée** qui permet aux utilisateurs de gérer, organiser et partager leurs mots de passe et données sensibles de manière simple et fiable.  
-Elle intègre également un **chatbot intelligent alimenté par l’IA (OpenAI)**, capable d’accompagner les utilisateurs et d’améliorer leur expérience en temps réel.
 
 ---
 
