@@ -23,27 +23,16 @@ SecureVault est une **plateforme web sécurisée** qui permet aux utilisateurs d
 
 
 
-##  Architecture du projet
-```plaintext
-SecureVault/
-├── backend/
-│   ├── src/main/java/com/securevault/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   ├── repositories/
-│   │   ├── services/
-│   │   └── SecureVaultApplication.java
-│   └── src/main/resources/
-│       └── application.properties
-│
-├── frontend/
-│   ├── src/app/
-│   │   ├── login/
-│   │   ├── dashboard/
-│   │   ├── signUp/
-│   │   ├── services/
-│   │   └── welcome/
-│   └── angular.json
-│
-└── README.md
+## 🧠 Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
