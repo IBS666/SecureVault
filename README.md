@@ -21,10 +21,7 @@ Elle intègre également un **chatbot intelligent alimenté par l’IA (OpenAI)*
 - Ajouter et gérer des membres.
 - Gérer les accès par rôle.
 
-###  Chatbot IA intégré
-- Assistance en temps réel.
-- Réponses automatiques aux questions des utilisateurs.
-- Aide guidée pour l’utilisation de la plateforme.
+
 
 
 ##  Architecture du projet
@@ -50,15 +47,4 @@ SecureVault/
 │   └── angular.json
 │
 └── README.md
-
-### 🧩 1️⃣ Backend (Spring Boot)
-```bash
-cd Backend-Vault-main
-./mvnw clean install   # ou mvn clean install si Maven est installé
-./mvnw spring-boot:run
-
-### Frontend (Angular)
-cd vault-projet
-npm install
-ng serve -o
 
